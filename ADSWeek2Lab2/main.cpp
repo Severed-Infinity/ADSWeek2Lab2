@@ -8,6 +8,7 @@
 
 #include <iostream>
 #include "GenericArray.h"
+#include "Triple.h"
 
 int main(int argc, const char * argv[]) {
     
@@ -24,6 +25,17 @@ int main(int argc, const char * argv[]) {
     testD.addEntry(673.1298);
     testD.addEntry(2);
     std::cout << "total: " << testD.totalValue() << std::endl;
+    
+    
+    Triple<int> trip(3, 1, 2);
+    std::cout << trip.minimum() << std::endl;
+    std::cout << trip.median() << std::endl;
+    std::cout << trip.maximum() << std::endl;
+    
+    Triple<int> trip2('e', 'a', 'z');
+    std::cout << trip2.minimum() << std::endl;
+    std::cout << trip2.median() << std::endl;
+    std::cout << trip2.maximum() << std::endl;
     
     return 0;
 }

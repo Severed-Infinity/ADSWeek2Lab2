@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BD4BC9EF-37C6-4C72-BF19-B0A8F425DE2D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ADSWeek2Lab2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B9D0081A21E0697E092346498DEE001887647DD0</key>
+		<string>https://github.com/Severed-Infinity/ADSWeek2Lab2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ADSWeek2Lab2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B9D0081A21E0697E092346498DEE001887647DD0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Severed-Infinity/ADSWeek2Lab2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B9D0081A21E0697E092346498DEE001887647DD0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B9D0081A21E0697E092346498DEE001887647DD0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ADSWeek2Lab2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

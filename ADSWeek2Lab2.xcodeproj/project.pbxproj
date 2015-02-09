@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E5B2D99C1A88BEED002F806E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E5B2D99B1A88BEED002F806E /* main.cpp */; };
+		E5B2D9AE1A88D487002F806E /* Triple.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E5B2D9AC1A88D487002F806E /* Triple.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +27,8 @@
 		E5B2D9981A88BEED002F806E /* ADSWeek2Lab2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ADSWeek2Lab2; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5B2D99B1A88BEED002F806E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		E5B2D9AB1A88D3C3002F806E /* GenericArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GenericArray.h; sourceTree = "<group>"; };
+		E5B2D9AC1A88D487002F806E /* Triple.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Triple.cpp; sourceTree = "<group>"; };
+		E5B2D9AD1A88D487002F806E /* Triple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Triple.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				E5B2D9AB1A88D3C3002F806E /* GenericArray.h */,
+				E5B2D9AC1A88D487002F806E /* Triple.cpp */,
+				E5B2D9AD1A88D487002F806E /* Triple.h */,
 				E5B2D99B1A88BEED002F806E /* main.cpp */,
 			);
 			path = ADSWeek2Lab2;
@@ -121,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E5B2D99C1A88BEED002F806E /* main.cpp in Sources */,
+				E5B2D9AE1A88D487002F806E /* Triple.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
